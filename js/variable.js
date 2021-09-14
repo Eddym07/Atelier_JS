@@ -1,3 +1,4 @@
+console.log("\n##### Exemples de variables ####### \n");
 //Exemple of two variables with strings
 var userFirstname = "Eddy";
 var baseSentence = "Bonjour "
@@ -8,6 +9,8 @@ console.log(baseSentence + userFirstname);
 console.log(baseSentence + userFirstname);
 console.log(baseSentence + userFirstname);
 
+
+// Exemple of variable with incrementation
 var age = 15;
 console.log(age);
 age = age = 1;
